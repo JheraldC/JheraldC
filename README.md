@@ -14,12 +14,12 @@ Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Agustín
 
 | Proyecto | Qué muestra |
 | --- | --- |
-| [Búsqueda semántica de casos clínicos](https://github.com/JheraldC/Busqueda-Semantica-con-IA-Casos-Clinicos) | API FastAPI, interfaz React, embeddings e integración de IA |
-| [API MedGemma](https://github.com/JheraldC/VM-Busqueda-Semantica-con-IA-Casos-Clinicos) | Inferencia de texto e imágenes con FastAPI y PyTorch |
-| [Gestión de restaurante](https://github.com/JheraldC/IPS-Proyecto) | Modelado de mesas, pedidos y usuarios con Django y SQLite |
-| [Reconocimiento de señas](https://github.com/JheraldC/lenguajeSe-asPredictor) | Captura de landmarks y entrenamiento de un clasificador |
-| [Expresiones faciales y calidad](https://github.com/JheraldC/ReconocimientoEmociones-CG) | OpenCV, aplicación de escritorio y configuración SonarQube |
-| [Testing de TEAMMATES — Grillos](https://github.com/JheraldC/teammates-grillos) | Trabajo académico de pruebas sobre un proyecto open source |
+| [Búsqueda semántica de casos clínicos](https://github.com/JheraldC/busqueda-semantica-casos-clinicos) | API FastAPI, interfaz React, embeddings e integración de IA |
+| [API MedGemma](https://github.com/JheraldC/api-medgemma-fastapi) | Inferencia de texto e imágenes con FastAPI y PyTorch |
+| [Gestión de restaurante](https://github.com/JheraldC/gestion-restaurante-django) | Modelado de mesas, pedidos y usuarios con Django y SQLite |
+| [Reconocimiento de señas](https://github.com/JheraldC/trabajo-academico-reconocimiento-senas) | Captura de landmarks y entrenamiento de un clasificador |
+| [Expresiones faciales y calidad](https://github.com/JheraldC/trabajo-academico-expresiones-faciales-calidad) | OpenCV, aplicación de escritorio y configuración SonarQube |
+| [Testing de TEAMMATES — Grillos](https://github.com/JheraldC/trabajo-academico-testing-teammates) | Trabajo académico de pruebas sobre un proyecto open source |
 
 ## Trabajos académicos
 
