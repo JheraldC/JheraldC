@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jherald Huren Cáceres Apaza
 
-<!--
-**JheraldC/JheraldC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa, Perú. Me interesa desarrollar aplicaciones backend, automatizar procesos e integrar modelos de inteligencia artificial en proyectos de software.
 
-Here are some ideas to get you started:
+## Tecnologías que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Python, FastAPI y Django.
+- **Frontend:** JavaScript, React, HTML y CSS.
+- **Datos e IA:** pandas, NumPy, OpenCV, MediaPipe, TensorFlow y modelos de Hugging Face.
+- **Otros entornos:** Java, C++ y Git/GitHub.
+- **Calidad:** trabajo académico de testing sobre proyectos existentes.
+
+## Proyectos destacados
+
+| Proyecto | Qué muestra |
+| --- | --- |
+| [Búsqueda semántica de casos clínicos](https://github.com/JheraldC/Busqueda-Semantica-con-IA-Casos-Clinicos) | API FastAPI, interfaz React, embeddings e integración de IA |
+| [API MedGemma](https://github.com/JheraldC/VM-Busqueda-Semantica-con-IA-Casos-Clinicos) | Inferencia de texto e imágenes con FastAPI y PyTorch |
+| [Gestión de restaurante](https://github.com/JheraldC/IPS-Proyecto) | Modelado de mesas, pedidos y usuarios con Django y SQLite |
+| [Reconocimiento de señas](https://github.com/JheraldC/lenguajeSe-asPredictor) | Captura de landmarks y entrenamiento de un clasificador |
+| [Expresiones faciales y calidad](https://github.com/JheraldC/ReconocimientoEmociones-CG) | OpenCV, aplicación de escritorio y configuración SonarQube |
+| [Testing de TEAMMATES — Grillos](https://github.com/JheraldC/teammates-grillos) | Trabajo académico de pruebas sobre un proyecto open source |
+
+## Trabajos académicos
+
+Conservo ejercicios de estructuras de datos, grafos, concurrencia, procesamiento de imágenes y física computacional. Cada repositorio describe su propósito, tecnologías y requisitos de ejecución.
+
+En los proyectos grupales o basados en software existente, distingo el trabajo realizado de la autoría del proyecto original. Los prototipos de IA se presentan con su alcance y sus limitaciones de reproducción.
+
+## Contacto
+
+Puedes encontrar mis proyectos y contactar conmigo a través de [mi perfil de GitHub](https://github.com/JheraldC).
